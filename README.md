@@ -1,4 +1,4 @@
-# ✅ <CheckRa1n> ✅
+# ✅ {[CheckRa1n]} ✅ #
 
 - fetch('sipni').
 
