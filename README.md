@@ -1,8 +1,8 @@
 # ✅ <CheckRa1n> ✅
 
-- System Cracked.
+- fetch('sipni').
 
 
-  - VERSION: v1.0.0  /  i.Sscrapper
+  - VERSION: v1.0.0  /
+  -  i.Sscrapper
 
-+ 
